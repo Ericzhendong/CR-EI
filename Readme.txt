@@ -1,0 +1,1 @@
+This is the code for our paper "Calibrated and Recalibrated Expected Improvements for Bayesian Optimization", which is built based on the GPML Toolbox.  The use of our code can refer to the demo files as "Demo_Single_Run_of_CR_EI.m" and "Demo_BenchmarkTests.m".
